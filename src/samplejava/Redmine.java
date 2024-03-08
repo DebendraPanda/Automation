@@ -15,7 +15,7 @@ public class Redmine {
 		
 		if(driver.getTitle().equals("Redmine")) 
 		{
-			System.out.println("Title Matched");
+			System.out.println("Title Matchedd");
 		}
 		else 
 		{
